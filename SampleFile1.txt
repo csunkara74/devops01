@@ -6,3 +6,4 @@ This is second file change
 This is third file change
 This is for comarision
 This change is for learning how git stash works
+This is for verifying how stash works in untracked files
