@@ -1,3 +1,5 @@
 This is test file 1
 
 Here is 2nd changed to the file
+
+Verifying SSH connection
